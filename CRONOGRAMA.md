@@ -1,9 +1,19 @@
 # Cronograma de Estudos do NPI
 
-| Dia | Atividades |
-|------|------------|
-| **Segunda-feira** | Monitoria<br>Relatório da monitoria<br>Revisão de código (Java ou Web) |
-| **Terça-feira** | Monitoria<br>Relatório da monitoria<br>Revisão de código (Java ou Web) |
-| **Quarta-feira** | Curso de Java<br>Prática com código em Java |
-| **Quinta-feira** | Curso de Java<br>Prática com código em Java |
-| **Sexta-feira** | Prática com código (Java ou Web)<br>Grupo de IA |
+| Semana | Dia | Atividades |
+|---|---|---|
+| **3 a 7 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria |
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria |
+| | **Quarta-feira** | Desenvolvimento do package **SistemaDeRPG** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de conceitos de **POO** |
+| | **Quinta-feira** | Desenvolvimento do package **SistemaDeGerenciamentoDeBiblioteca** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de conceitos de **POO** |
+| | **Sexta-feira** | Continuação dos packages **SistemaDeRPG** e **SistemaDeGerenciamentoDeBiblioteca** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Desenvolvimento de **algoritmos com matrizes em Java** no repositório [**java-matriz-exercicios**](https://github.com/ryanmelopd/java-matriz-exercicios) |
+| **10 a 14 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria |
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria |
+| | **Quarta-feira** | Desenvolvimento do package **ValidadorCPF** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de lógica e validação de dados |
+| | **Quinta-feira** | Continuação do package **ValidadorCPF** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Desenvolvimento de uma página web utilizando **Flexbox** no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
+| | **Sexta-feira** | Continuação e finalização do package **ValidadorCPF** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) |
+| **18 a 21 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Alteração do package `SistemaBancario`, adicionando **classes abstratas e métodos abstratos**, no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) |
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Organização e ajustes no repositório **horario** |
+| | **Quarta-feira** | Estudos sobre **Interfaces em POO**<br>Prática e desenvolvimento de exemplos em Java |
+| | **Quinta-feira** | Estudos sobre **Collections em Java**<br>Prática e desenvolvimento de exemplos em Java |
+| | **Sexta-feira** | Desenvolvimento de um possível **clone de página web**<br>Prática com código em Java ou Web |
