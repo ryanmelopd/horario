@@ -14,6 +14,6 @@
 | | **Sexta-feira** | Continuação e finalização do package **ValidadorCPF** no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) |
 | **18 a 21 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Alteração do package `SistemaBancario`, adicionando **classes abstratas e métodos abstratos**, no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) |
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Organização e ajustes no repositório **horario** |
-| | **Quarta-feira** | Estudos sobre **Interfaces em POO**<br>Prática e desenvolvimento de exemplos em Java |
-| | **Quinta-feira** | Estudos sobre **Collections em Java**<br>Prática e desenvolvimento de exemplos em Java |
+| | **Quarta-feira** | Estudos sobre **Interfaces em POO**<br>Prática e desenvolvimento de exemplos em Java<br>Adição do Package `SistemaDeNotificacoes` usando Interfaces no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) |
+| | **Quinta-feira** | Estudos sobre **Collections em Java**<br>Prática e desenvolvimento de exemplos em Java<br>Adição do Package `GerenciadorDeProdutos` usando List, Set e Map no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) |
 | | **Sexta-feira** | Desenvolvimento de um possível **clone de página web**<br>Prática com código em Java ou Web |
