@@ -20,6 +20,6 @@
 | **24 a 28 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da atividade de POO envolvendo vetores e Tópicos de Álgebra Linear sobre produto e inversa de matrizes<br>Planejamento sobre o que estudar na semana|
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Java sobre tipos de associação entre classes|
 | | **Quarta-feira** | Desenvolvimento do package `AgendaDeContatos` no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de associação entre classes e utilização de List e ArrayList |
-| | **Quinta-feira** | Revisão de HTML, CSS e JavaScript<br>Estudos sobre integração entre HTML, CSS e JavaScript<br>Desenvolvimento do projeto `lista-de-tarefas` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Criação da estrutura da aplicação utilizando HTML e CSS |
-| | **Sexta-feira** | Continuação e finalização do projeto `lista-de-tarefas` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Prática de JavaScript, manipulação do DOM e eventos<br>Organização e publicação do projeto no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
+| | **Quinta-feira** | Revisão de HTML, CSS e JavaScript<br>Estudos sobre integração entre HTML, CSS e JavaScript<br>Desenvolvimento do projeto `lista-de-tarefas` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Desenvolvimento do projeto `contador` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
+| | **Sexta-feira** | |
 
