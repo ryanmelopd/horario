@@ -21,5 +21,5 @@
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Java sobre tipos de associação entre classes|
 | | **Quarta-feira** | Desenvolvimento do package `AgendaDeContatos` no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de associação entre classes e utilização de List e ArrayList |
 | | **Quinta-feira** | Revisão de HTML, CSS e JavaScript<br>Estudos sobre integração entre HTML, CSS e JavaScript<br>Desenvolvimento do projeto `lista-de-tarefas` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Desenvolvimento do projeto `contador` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
-| | **Sexta-feira** | |
+| | **Sexta-feira** | Desenvolvimento do projeto `gerador-de-personagem` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Realização de tarefas de POO |
 
