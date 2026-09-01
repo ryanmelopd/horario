@@ -20,10 +20,10 @@
 | **24 a 28 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da atividade de POO envolvendo vetores e Tópicos de Álgebra Linear sobre produto e inversa de matrizes<br>Planejamento sobre o que estudar na semana|
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Java sobre tipos de associação entre classes|
 | | **Quarta-feira** | Desenvolvimento do package `AgendaDeContatos` no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de associação entre classes e utilização de List e ArrayList |
-| | **Quinta-feira** | Revisão de HTML, CSS e JavaScript<br>Estudos sobre integração entre HTML, CSS e JavaScript<br>Desenvolvimento do projeto `lista-de-tarefas` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Desenvolvimento do projeto `contador` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
+| | **Quinta-feira** | Revisão de HTML, CSS e JavaScript<br>Estudos sobre integração entre HTML, CSS e JavaScript |
 | | **Sexta-feira** | Desenvolvimento do projeto `gerador-de-personagem` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Realização de tarefas de POO |
-| **31 de agosto a 4 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da lista de exercício de Tópicos de Álgebra Linear |
+| **31 de agosto a 4 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da lista de exercícios de Tópicos de Álgebra Linear |
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria |
-| | **Quarta-feira** | Estudos de Collections em Java<br>Prática de `List`, `Set` e `Map`<br>Exercícios utilizando `ArrayList`, `HashSet` e `HashMap`<br>Estudo de métodos como `add`, `remove`, `contains`, `get` e `put` |
-| | **Quinta-feira** | Estudos de JavaScript e manipulação do DOM<br>Prática com `querySelector`, `addEventListener` e `classList`<br>Continuação dos estudos de integração entre HTML, CSS e JavaScript |
-| | **Sexta-feira** | Desenvolvimento de um novo mini projeto em JavaScript<br>Aplicação prática de DOM, eventos e `classList`<br>Realização de exercícios de POO em Java |
+| | **Quarta-feira** | Realização da lista de exercícios de Tópicos de Álgebra Linear |
+| | **Quinta-feira** | Estudos de Collections em Java<br>Prática de `List`, `Set` e `Map`<br>Exercícios utilizando `ArrayList`, `HashSet` e `HashMap`<br>Estudo de métodos como `add`, `remove`, `contains`, `get` e `put`<br>Realização de exercícios de fixação de POO |
+| | **Sexta-feira** |  Estudos de JavaScript e manipulação do DOM<br>Aplicação prática de DOM, eventos e `classList`<br>Desenvolvimento do projeto `to-do-list` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
