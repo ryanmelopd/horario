@@ -22,7 +22,7 @@
 | | **Quarta-feira** | Desenvolvimento do package `AgendaDeContatos` no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos)<br>Prática de associação entre classes e utilização de List e ArrayList |
 | | **Quinta-feira** | Revisão de HTML, CSS e JavaScript<br>Estudos sobre integração entre HTML, CSS e JavaScript<br>Desenvolvimento do projeto `lista-de-tarefas` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Desenvolvimento do projeto `contador` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
 | | **Sexta-feira** | Desenvolvimento do projeto `gerador-de-personagem` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects)<br>Realização de tarefas de POO |
-| **31 de agosto a 4 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria |
+| **31 de agosto a 4 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da lista de exercício de Tópicos de Álgebra Linear |
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria |
 | | **Quarta-feira** | Estudos de Collections em Java<br>Prática de `List`, `Set` e `Map`<br>Exercícios utilizando `ArrayList`, `HashSet` e `HashMap`<br>Estudo de métodos como `add`, `remove`, `contains`, `get` e `put` |
 | | **Quinta-feira** | Estudos de JavaScript e manipulação do DOM<br>Prática com `querySelector`, `addEventListener` e `classList`<br>Continuação dos estudos de integração entre HTML, CSS e JavaScript |
