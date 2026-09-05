@@ -26,4 +26,4 @@
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
 | | **Quarta-feira** | Realização da lista de exercícios de Tópicos de Álgebra Linear<br>Realização de códigos para o trabalho de Tópicos de Álgebra Linear<br>Desenvolvimento de exercícios de matrizes no repositório [**java-matriz-exercicios**](https://github.com/ryanmelopd/java-matriz-exercicios.git) | 
 | | **Quinta-feira** | Estudos de Collections em Java<br>Prática de `List`, `Set` e `Map`<br>Realização de exercícios utilizando `ArrayList`, `HashSet` e `HashMap`<br>Estudo de métodos como `add`, `remove`, `contains`, `get` e `put`<br>Realização de exercícios de fixação de POO<br>Desenvolvimento do package `RankingJogadores` no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) | 
-| | **Sexta-feira** | Estudos de JavaScript e manipulação do DOM<br>Aplicação prática de DOM, eventos e `classList`<br>Desenvolvimento do projeto `to-do-list` no repositório [**web-projects**](https://github.com/ryanmelopd/web-projects) |
+| | **Sexta-feira** | Faltei nesse dia, porém em casa estudei Generics e Stream API |
