@@ -26,8 +26,13 @@
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
 | | **Quarta-feira** | Realização da lista de exercícios de Tópicos de Álgebra Linear<br>Realização de códigos para o trabalho de Tópicos de Álgebra Linear<br>Desenvolvimento de exercícios de matrizes no repositório [**java-matriz-exercicios**](https://github.com/ryanmelopd/java-matriz-exercicios.git) | 
 | | **Quinta-feira** | Estudos de Collections em Java<br>Prática de `List`, `Set` e `Map`<br>Realização de exercícios utilizando `ArrayList`, `HashSet` e `HashMap`<br>Estudo de métodos como `add`, `remove`, `contains`, `get` e `put`<br>Realização de exercícios de fixação de POO<br>Desenvolvimento do package `RankingJogadores` no repositório [**java-mini-projetos**](https://github.com/ryanmelopd/java-mini-projetos) | 
-| | **Sexta-feira** | Faltei nesse dia, porém em casa estudei Generics e Stream API |
+| | **Sexta-feira** | Faltei nesse dia |
 | **7 a 11 de setembro** | **Segunda-feira** | Feriado da Independência | 
-| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Desenvolvimento de um projeto em Java utilizando POO | 
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
+| | **Quarta-feira** | Revisão sobre tipos de Collections<br>Estudos sobre Generics e Stream API<br>Estudos sobre Garbage Collector em Java |
+| | **Quinta-feira** | Desenvolvimento de um projeto em Java no repositório [**game-hub**](https://github.com/ryanmelopd/game-hub.git) |
+| | **Sexta-feira** | Grupo de IA |
+
+
 
 
