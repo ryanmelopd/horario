@@ -31,7 +31,7 @@
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
 | | **Quarta-feira** | Revisão sobre tipos de Collections<br>Estudos sobre Generics e Stream API<br>Estudos sobre Garbage Collector em Java |
 | | **Quinta-feira** | Desenvolvimento de um projeto em Java no repositório [**game-hub**](https://github.com/ryanmelopd/game-hub.git) |
-| | **Sexta-feira** | Grupo de IA |
+| | **Sexta-feira** | Estudos sobre leitura de arquivos em Java<br>Desenvolvimento de um projeto em Java no repositório [**java-file-reader**](https://github.com/ryanmelopd/java-file-reader)<br>Grupo de IA |
 
 
 
