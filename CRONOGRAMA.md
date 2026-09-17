@@ -35,7 +35,7 @@
 | **14 a 18 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos sobre Tópicos de Álgebra Linear para a prova | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos sobre Tópicos de Álgebra Linear para a prova | 
 | | **Quarta-feira** | Faltei nesse dia |
-| | **Quinta-feira** | Continuação de um projeto em Java no repositório [**java-file-reader**](https://github.com/ryanmelopd/java-file-reader) |
+| | **Quinta-feira** | Continuação de um projeto em Java no repositório [**java-file-reader**](https://github.com/ryanmelopd/java-file-reader)<br>Estudos em Python sobre dados usando Pandas no repositório  [**python-data-ml**](https://github.com/ryanmelopd/python-data-ml) |
 | | **Sexta-feira** | Grupo de IA |
 
 
