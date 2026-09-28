@@ -42,6 +42,11 @@
 | | **Quarta-feira** | Faltei nesse dia |
 | | **Quinta-feira** | Faltei nesse dia |
 | | **Sexta-feira** | Faltei nesse dia |
+| **28 de setembro a 2 de outubro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da pesquisa sobre RAG do grupo de pesquisa em IA<br> Estudos sobre Exception<br>Exercícios práticos sobre a classe Exception | 
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
+| | **Quarta-feira** | |
+| | **Quinta-feira** | |
+| | **Sexta-feira** |  |
 
 
 
