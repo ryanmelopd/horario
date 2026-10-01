@@ -45,5 +45,5 @@
 | **28 de setembro a 2 de outubro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Realização da pesquisa sobre RAG do grupo de pesquisa em IA<br> Estudos sobre Exception<br>Exercícios práticos sobre a classe Exception | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos sobre APIs, Protocolo HTTP e seus metódos<br>Estudos sobre REST e o JSON<br>Estudos sobre Maven | 
 | | **Quarta-feira** | Continuação dos estudos sobre Maven, e seus comandos (mvn)<br>Estudos sobre Frameworks, e Sprint Boot<br>Criação de um repositório para usar Spring Boot em [**bibilioteca-api**](https://github.com/ryanmelopd/biblioteca-api)|
-| | **Quinta-feira** | |
+| | **Quinta-feira** | Continuação dos estudos no framework Spring Boot<br>Continuação do repositório de estudos em Spring Boot em [**bibilioteca-api**](https://github.com/ryanmelopd/biblioteca-api) |
 | | **Sexta-feira** | |
