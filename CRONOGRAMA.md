@@ -30,14 +30,14 @@
 | **7 a 11 de setembro** | **Segunda-feira** | Feriado da Independência | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
 | | **Quarta-feira** | Revisão sobre tipos de Collections<br>Estudos sobre Generics e Stream API<br>Estudos sobre Garbage Collector em Java |
-| | **Quinta-feira** | Desenvolvimento de um projeto em Java no repositório [**game-hub**](https://github.com/ryanmelopd/game-hub.git) |
+| | **Quinta-feira** | Estudos sobre Stream API |
 | | **Sexta-feira** | Estudos sobre leitura de arquivos em Java<br>Desenvolvimento de um projeto em Java no repositório [**java-file-reader**](https://github.com/ryanmelopd/java-file-reader)<br>Grupo de IA |
 | **14 a 18 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos sobre Tópicos de Álgebra Linear para a prova | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos sobre Tópicos de Álgebra Linear para a prova | 
 | | **Quarta-feira** | Faltei nesse dia |
 | | **Quinta-feira** | Continuação de um projeto em Java no repositório [**java-file-reader**](https://github.com/ryanmelopd/java-file-reader)<br>Estudos em Python sobre dados usando Pandas no repositório  [**python-data-ml**](https://github.com/ryanmelopd/python-data-ml) |
 | | **Sexta-feira** | Estudos em Python sobre dados e realização de exercícios usando Pandas e Matplotlib no repositório [**python-data-ml**](https://github.com/ryanmelopd/python-data-ml) <br>Grupo de IA |
-| **21 a 25 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Continuação do projeto game-hub no repositório [**game-hub**](https://github.com/ryanmelopd/game-hub.git) | 
+| **21 a 25 de setembro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
 | | **Quarta-feira** | Faltei nesse dia |
 | | **Quinta-feira** | Faltei nesse dia |
@@ -47,3 +47,5 @@
 | | **Quarta-feira** | Continuação dos estudos sobre Maven, e seus comandos (mvn)<br>Estudos sobre Frameworks |
 | | **Quinta-feira** | Continuação dos estudos sobre Spring Boot |
 | | **Sexta-feira** | Continuação dos estudos sobre Spring Boot |
+| **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Spring Boot e MVC<br>Desenvolvimento dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot)  | 
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
