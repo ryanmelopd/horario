@@ -48,4 +48,4 @@
 | | **Quinta-feira** | Continuação dos estudos sobre Spring Boot |
 | | **Sexta-feira** | Continuação dos estudos sobre Spring Boot |
 | **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Spring Boot e MVC<br>Desenvolvimento dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot)  | 
-| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria | 
+| | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Continuação dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) | 
