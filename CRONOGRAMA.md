@@ -49,4 +49,5 @@
 | | **Sexta-feira** | Continuação dos estudos sobre Spring Boot |
 | **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Spring Boot e MVC<br>Desenvolvimento dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot)  | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Continuação dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
-| | **Quarta-feira** | Desenvolvimento de uma API de filmes usando Spring Boot no repositório [**api-filmes-spring-boot**](https://github.com/ryanmelopd/api-filmes-spring-boot)<br>Estudos em Spring Data JPA |
+| | **Quarta-feira** | Desenvolvimento de uma API de filmes usando Spring Boot no repositório [**api-filmes-spring-boot**](https://github.com/ryanmelopd/api-filmes-spring-boot)<br>Estudos na linguagem SQL |
+| | **Quinta-feira** | Continuação dos estudos em SQL |
