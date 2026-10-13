@@ -1,5 +1,46 @@
 # Cronograma de Estudos do NPI
 
+## Fontes de Estudo
+
+Os estudos realizados no NPI são complementados por cursos, videoaulas e ferramentas de apoio, organizados por área de conhecimento.
+
+### Lógica de Programação
+
+- <a href="https://www.youtube.com/watch?v=nODe5lFcGpg" target="_blank" rel="noopener noreferrer">Curso de Programação Java para Iniciantes | Fundamentos + POO</a> - YouTube
+- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
+- Santander Bootcamp Java - DIO
+
+### Programação Orientada a Objetos (POO)
+
+- <a href="https://www.youtube.com/watch?v=nODe5lFcGpg" target="_blank" rel="noopener noreferrer">Curso de Programação Java para Iniciantes | Fundamentos + POO</a> - YouTube
+- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
+- Santander Bootcamp Java - DIO 
+
+### Estruturas de Dados
+
+- <a href="https://youtu.be/jLropHUgI1A" target="_blank" rel="noopener noreferrer">Curso de Java Intermediário | Estrutura de Dados, Stream API, Generics, Packages e Records</a> - YouTube
+- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
+- Santander Bootcamp Java - DIO
+
+### Banco de Dados
+
+- <a href="https://youtu.be/XQkf-6Yl3WM?si=6QYd4fWpct4Xpl3D" target="_blank" rel="noopener noreferrer">Curso de SQL e MySQL fundamental | Aprenda SQL em 1 hora</a> - Youtube
+- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
+
+### Tecnologias Back-end
+
+- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero — Parte 1</a> - YouTube
+- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
+- Ferramenta de apoio: Claude
+  
+### Frameworks e Spring Boot
+
+- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero — Parte 1</a> - YouTube
+- <a href="https://youtu.be/YY_hf0FOIcU" target="_blank" rel="noopener noreferrer">Curso de Spring para Iniciantes | Tutorial Completo de Java Spring</a> - YouTube
+- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
+
+## Cronograma
+
 | Semana | Dia | Atividades |
 |---|---|---|
 | **3 a 7 de agosto** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria |
@@ -52,3 +93,9 @@
 | | **Quarta-feira** | Desenvolvimento de uma API de filmes usando Spring Boot no repositório [**api-filmes-spring-boot**](https://github.com/ryanmelopd/api-filmes-spring-boot)<br>Estudos na linguagem SQL |
 | | **Quinta-feira** | Continuação dos estudos em SQL<br>Exercícios práticos com MySQL |
 | | **Sexta-feira** | Faltei nesse dia |
+| **12 a 16 de outubro** | **Segunda-feira** | Feriado de Nossa Senhora Aparecida | 
+| | **Terça-feira** | Recesso do dia dos professores |
+| | **Quarta-feira** | |
+| | **Quinta-feira** | |
+| | **Sexta-feira** | |
+
