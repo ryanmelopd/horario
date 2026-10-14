@@ -29,13 +29,13 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 
 ### Tecnologias Back-end
 
-- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero — Parte 1</a> - YouTube
+- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero - Parte 1</a> - YouTube
 - <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
 - Ferramenta de apoio: Claude
   
 ### Frameworks e Spring Boot
 
-- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero — Parte 1</a> - YouTube
+- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero - Parte 1</a> - YouTube
 - <a href="https://youtu.be/YY_hf0FOIcU" target="_blank" rel="noopener noreferrer">Curso de Spring para Iniciantes | Tutorial Completo de Java Spring</a> - YouTube
 - <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO: Programação Orientada a Objetos + Projetos</a> - Udemy
 
@@ -90,12 +90,12 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Sexta-feira** | Continuação dos estudos sobre Spring Boot |
 | **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Realização do relatório da monitoria<br>Estudos em Spring Boot e MVC<br>Desenvolvimento dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot)  | 
 | | **Terça-feira** | Monitoria<br>Realização do relatório da monitoria<br>Continuação dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
-| | **Quarta-feira** | Desenvolvimento de uma API de filmes usando Spring Boot no repositório [**api-filmes-spring-boot**](https://github.com/ryanmelopd/api-filmes-spring-boot)<br>Estudos na linguagem SQL |
-| | **Quinta-feira** | Continuação dos estudos em SQL<br>Exercícios práticos com MySQL |
+| | **Quarta-feira** | Desenvolvimento de uma API de filmes usando Spring Boot no repositório [**api-filmes-spring-boot**](https://github.com/ryanmelopd/api-filmes-spring-boot) |
+| | **Quinta-feira** | Estudos em JPA (Java Persistance API) |
 | | **Sexta-feira** | Faltei nesse dia |
 | **12 a 16 de outubro** | **Segunda-feira** | Feriado de Nossa Senhora Aparecida | 
 | | **Terça-feira** | Recesso do dia dos professores |
-| | **Quarta-feira** | |
+| | **Quarta-feira** | Estudos sobre date-hora em Java |
 | | **Quinta-feira** | |
-| | **Sexta-feira** | |
+| | **Sexta-feira** | Grupo de IA |
 
