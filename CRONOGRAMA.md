@@ -63,7 +63,7 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Sexta-feira** | Estudos sobre Spring Boot |
 | **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Estudos sobre Spring Boot <br>Desenvolvimento dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos sobre Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
-| | **Quarta-feira** | Desenvolvimento de uma API de filmes utilizando Spring Boot no repositório [**api-filmes-spring-boot**](https://github.com/ryanmelopd/api-filmes-spring-boot) |
+| | **Quarta-feira** | Desenvolvimento de uma API de filmes utilizando Spring Boot no repositório [**api-filmes**](https://github.com/ryanmelopd/api-filmes) |
 | | **Quinta-feira** | Estudos sobre JPA (Java Persistence API) |
 | | **Sexta-feira** | Falta |
 | **12 a 16 de outubro** | **Segunda-feira** | Feriado de Nossa Senhora Aparecida |
