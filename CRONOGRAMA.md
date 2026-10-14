@@ -68,6 +68,6 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Sexta-feira** | Falta |
 | **12 a 16 de outubro** | **Segunda-feira** | Feriado de Nossa Senhora Aparecida |
 | | **Terça-feira** | Recesso em comemoração ao Dia dos Professores |
-| | **Quarta-feira** | Revisão sobre Interfaces em Java<br>Estudos sobre a conexão entre POO e EDP<br>Implementação dos estudos no repositório [**java-event-driven-programming**](https://github.com/ryanmelopd/java-event-driven-programming)  |
+| | **Quarta-feira** | Revisão sobre Interfaces em Java<br>Estudos sobre a conexão entre POO e EDP<br>Implementação dos estudos no repositório [**java-event-driven-programming**](https://github.com/ryanmelopd/java-event-driven-programming)<br>Estudos sobre data e hora em Java<br>Implementação de exemplos no repositório [**java-studies**](https://github.com/ryanmelopd/java-studies) |
 | | **Quinta-feira** | Revisão sobre POO |
 | | **Sexta-feira** | Participação no grupo de IA |
