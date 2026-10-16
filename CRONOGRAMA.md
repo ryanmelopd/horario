@@ -9,6 +9,7 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 - <a href="https://youtu.be/XQkf-6Yl3WM" target="_blank" rel="noopener noreferrer">Curso de SQL e MySQL Fundamental | Aprenda SQL em 1 Hora</a> - YouTube
 - <a href="https://youtu.be/YY_hf0FOIcU" target="_blank" rel="noopener noreferrer">Curso de Spring para Iniciantes | Tutorial Completo de Java Spring</a> - YouTube
 - <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero - Parte 1</a> - YouTube
+- <a href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb" target="blank" rel="noopener noreferrer">Curso Laravel</a> - Youtube
 - <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO Programação Orientada a Objetos + Projetos</a> - Udemy
 - Santander Bootcamp Java 2024 - DIO
 
