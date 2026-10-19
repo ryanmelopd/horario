@@ -71,4 +71,9 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Terça-feira** | Recesso em comemoração ao Dia dos Professores |
 | | **Quarta-feira** | Revisão sobre Interfaces em Java<br>Estudos sobre a conexão entre POO e EDP<br>Implementação dos estudos no repositório [**java-event-driven-programming**](https://github.com/ryanmelopd/java-event-driven-programming)<br>Estudos sobre data e hora em Java<br>Implementação de exemplos no repositório [**learning-languages**](https://github.com/ryanmelopd/learning-languages) |
 | | **Quinta-feira** | Realização de atividades de POO no repositório [**java-atividades-poo-2**](https://github.com/ryanmelopd/java-atividades-poo-2)<br>Realização de um diagrama do processo de compra do Mercado Livre para a matéria de Análise e Projetos Orientado a Objetos<br>Realização da atividade de Análise e Projeto de Algoritmo<br>Realização de uma atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Estudos sobre as etapas do RAG |
-| | **Sexta-feira** | Estudos em PHP no repositório [**learning-languages**](https://github.com/ryanmelopd/learning-languages)<br>Estudos no framework Laravel no repositório [**the-mural**](https://github.com/ryanmelopd/the-mural) |
+| | **Sexta-feira** | Estudos em PHP no repositório [**learning-languages**](https://github.com/ryanmelopd/learning-languages)<br>Estudos no framework Laravel no repositório [**task-manager**](https://github.com/ryanmelopd/task-manager) |
+| **19 a 23 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos no framework Laravel com Integração do SQLite usando o Eloquent no repositório [**task-manager**](https://github.com/ryanmelopd/task-manager) |
+| | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria |
+| | **Quarta-feira** | |
+| | **Quinta-feira** | |
+| | **Sexta-feira** | |
