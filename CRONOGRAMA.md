@@ -73,7 +73,7 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Quinta-feira** | Realização de atividades de POO no repositório [**java-atividades-poo-2**](https://github.com/ryanmelopd/java-atividades-poo-2)<br>Realização de um diagrama do processo de compra do Mercado Livre para a matéria de Análise e Projetos Orientado a Objetos<br>Realização da atividade de Análise e Projeto de Algoritmo<br>Realização de uma atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Estudos sobre as etapas do RAG |
 | | **Sexta-feira** | Estudos em PHP no repositório [**learning-languages**](https://github.com/ryanmelopd/learning-languages)<br>Estudos no framework Laravel no repositório [**task-manager**](https://github.com/ryanmelopd/task-manager) |
 | **19 a 23 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos no framework Laravel com Integração do SQLite usando o Eloquent no repositório [**task-manager**](https://github.com/ryanmelopd/task-manager) |
-| | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria |
+| | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Estudos em SQL com uso prático do banco MariaDB |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
 | | **Sexta-feira** | |
