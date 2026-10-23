@@ -4,14 +4,15 @@
 
 Os estudos realizados no NPI são complementados por cursos, videoaulas e ferramentas de apoio, organizados por área de conhecimento.
 
-- <a href="https://youtu.be/nODe5lFcGpg" target="_blank" rel="noopener noreferrer">Curso de Programação Java para Iniciantes | Fundamentos + POO</a> - YouTube  
-- <a href="https://youtu.be/jLropHUgI1A" target="_blank" rel="noopener noreferrer">Curso de Java Intermediário | Estrutura de Dados, Stream API, Generics, Packages e Records</a> - YouTube
-- <a href="https://youtu.be/XQkf-6Yl3WM" target="_blank" rel="noopener noreferrer">Curso de SQL e MySQL Fundamental | Aprenda SQL em 1 Hora</a> - YouTube
-- <a href="https://youtu.be/YY_hf0FOIcU" target="_blank" rel="noopener noreferrer">Curso de Spring para Iniciantes | Tutorial Completo de Java Spring</a> - YouTube
-- <a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero - Parte 1</a> - YouTube
-- <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO Programação Orientada a Objetos + Projetos</a> - Udemy
-- <a href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb" target="blank" rel="noopener noreferrer">Curso Laravel</a> - Youtube
-- Santander Bootcamp Java 2024 - DIO
+<ul>
+  <li><a href="https://youtu.be/nODe5lFcGpg" target="_blank" rel="noopener noreferrer">Curso de Programação Java para Iniciantes | Fundamentos + POO</a> - YouTube</li>
+  <li><a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO Programação Orientada a Objetos + Projetos</a> - Udemy</li>
+  <li><a href="https://youtu.be/jLropHUgI1A" target="_blank" rel="noopener noreferrer">Curso de Java Intermediário | Estrutura de Dados, Stream API, Generics, Packages e Records</a> - YouTube</li>
+  <li><a href="https://youtu.be/XQkf-6Yl3WM" target="_blank" rel="noopener noreferrer">Curso de SQL e MySQL Fundamental | Aprenda SQL em 1 Hora</a> - YouTube</li>
+  <li><a href="https://youtu.be/YY_hf0FOIcU" target="_blank" rel="noopener noreferrer">Curso de Spring para Iniciantes | Tutorial Completo de Java Spring</a> - YouTube</li>
+  <li><a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero - Parte 1</a> - YouTube</li>
+  <li><a href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb" target="_blank" rel="noopener noreferrer">Curso Laravel</a> - YouTube</li>
+</ul>
 
 ## Cronograma
 
@@ -62,8 +63,8 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Quarta-feira** | Continuação dos estudos sobre Maven e seus comandos (`mvn`)<br>Estudos sobre frameworks |
 | | **Quinta-feira** | Estudos sobre Spring Boot Web |
 | | **Sexta-feira** | Estudos sobre Spring Boot Web |
-| **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Estudos sobre Spring Boot<br>Desenvolvimento dos estudos em Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
-| | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos sobre Spring Boot no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
+| **5 a 9 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Estudos sobre Spring Boot<br>Desenvolvimento dos estudos em Spring Boot Web no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring) |
+| | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos sobre Spring Boot no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring) |
 | | **Quarta-feira** | Desenvolvimento de uma API de filmes utilizando Spring Boot no repositório [**api-filmes**](https://github.com/ryanmelopd/api-filmes) |
 | | **Quinta-feira** | Estudos sobre Spring Boot Web |
 | | **Sexta-feira** | Falta |
@@ -74,6 +75,6 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Sexta-feira** | Estudos em PHP no repositório [**learning-programming-languages**](https://github.com/ryanmelopd/learning-programming-languages)<br>Estudos no framework Laravel no repositório [**laravel-task-manager**](https://github.com/ryanmelopd/laravel-task-manager) |
 | **19 a 23 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos no framework Laravel com a integração usando SQLite no repositório [**laravel-task-manager**](https://github.com/ryanmelopd/laravel-task-manager) |
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Estudos em SQL com uso prático do banco MariaDB |
-| | **Quarta-feira** | Estudos sobre a diferença entre JDBC, Hibernate, JPA e Spring Data JPA<br>Estudos em Spring Data JPA no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
+| | **Quarta-feira** | Estudos sobre a diferença entre JDBC, Hibernate, JPA e Spring Data JPA<br>Estudos em Spring Data JPA no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring) |
 | | **Quinta-feira** | Realização da atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Realização da atividade de Análise e Projeto de Algoritmo<br>Estudos nas linguagens Python, Node.js e PHP no repositório [**learning-programming-languages**](https://github.com/ryanmelopd/learning-programming-languages) |
-| | **Sexta-feira** | Estudos em Spring Data JPA no repositório [**curso-spring-boot**](https://github.com/ryanmelopd/curso-spring-boot) |
+| | **Sexta-feira** | Estudos em Spring Data JPA no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring)<br>Implementação integração com Spring Data JPA com MariaDB no repositório [**api-filmes**](https://github.com/ryanmelopd/api-filmes) |
