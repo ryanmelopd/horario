@@ -72,14 +72,14 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Terça-feira** | Recesso em comemoração ao Dia dos Professores |
 | | **Quarta-feira** | Revisão sobre Interfaces em Java<br>Estudos sobre a conexão entre POO e EDP<br>Implementação dos estudos no repositório [**java-event-driven-programming**](https://github.com/ryanmelopd/java-event-driven-programming)<br>Estudos sobre data e hora em Java<br>Implementação de exemplos no repositório [**learning-programming-languages**](https://github.com/ryanmelopd/learning-programming-languages) |
 | | **Quinta-feira** | Realização de atividades de POO no repositório [**java-atividades-poo**](https://github.com/ryanmelopd/java-atividades-poo)<br>Realização de um diagrama do processo de compra do Mercado Livre para a matéria de Análise e Projetos Orientado a Objetos<br>Realização da atividade de Análise e Projeto de Algoritmo<br>Realização de uma atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Estudos sobre as etapas do RAG |
-| | **Sexta-feira** | Estudos em PHP no repositório [**learning-programming-languages**](https://github.com/ryanmelopd/learning-programming-languages)<br>Estudos no framework Laravel no repositório [**laravel-task-manager**](https://github.com/ryanmelopd/laravel-task-manager) |
+| | **Sexta-feira** | Estudos em PHP no repositório [**learning-programming-languages**](https://github.com/ryanmelopd/learning-programming-languages)<br>Estudos no framework Laravel |
 | **19 a 23 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Continuação dos estudos no framework Laravel com a integração usando Eloquent com SQLite |
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório de monitoria<br>Estudos em SQL com uso prático do banco MariaDB |
 | | **Quarta-feira** | Estudos sobre a diferença entre JDBC, Hibernate, JPA e Spring Data JPA<br>Estudos em Spring Data JPA no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring) |
 | | **Quinta-feira** | Realização da atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Realização da atividade de Análise e Projeto de Algoritmo<br>Estudos nas linguagens Python, Node.js e PHP no repositório [**learning-programming-languages**](https://github.com/ryanmelopd/learning-programming-languages) |
 | | **Sexta-feira** | Estudos em Spring Data JPA no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring)<br>Implementa integração com Spring Data JPA com MariaDB no repositório [**api-filmes**](https://github.com/ryanmelopd/api-filmes) |
 | **12 a 16 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Revisão dos estudos em Spring Data JPA |
-| | **Terça-feira** | Monitoria<br>Elaboração do relatório da monitoria |
+| | **Terça-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Realização da atividade de Elementos de Cálculo e Álgebra Linear |
 | | **Quarta-feira** | |
 | | **Quinta-feira** |  |
 | | **Sexta-feira** | |
