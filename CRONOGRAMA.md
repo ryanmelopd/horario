@@ -80,6 +80,6 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Sexta-feira** | Estudos em Spring Data JPA no repositório [**mini-curso-spring**](https://github.com/ryanmelopd/mini-curso-spring)<br>Implementa integração com Spring Data JPA com MariaDB no repositório [**api-filmes**](https://github.com/ryanmelopd/api-filmes) |
 | **26 a 30 de outubro** | **Segunda-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Revisão dos estudos em Spring Data JPA |
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Realização da atividade de Elementos de Cálculo e Álgebra Linear<br>Adiciona estrutura inicial de projeto em Laravel no repositório [**personal-finance-api**](https://github.com/ryanmelopd/personal-finance-api) |
-| | **Quarta-feira** | Realização da atividade de Análise e Projeto de Algoritmo<br>Realização da atividade de POO no repositório [**java-atividades-poo**](https://github.com/ryanmelopd/java-atividades-poo)<br>Realização da atividade de Elementos de Cálculo e Álgebra Linear |
+| | **Quarta-feira** | Realização da atividade de Análise e Projeto de Algoritmo<br>Realização da atividade de POO no repositório [**java-atividades-poo**](https://github.com/ryanmelopd/java-atividades-poo)<br>Realização da atividade de Elementos de Cálculo e Álgebra Linear<br>Estudos sobre Laravel |
 | | **Quinta-feira** |  |
 | | **Sexta-feira** | |
