@@ -82,4 +82,4 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Realização da atividade de Elementos de Cálculo e Álgebra Linear<br>Adiciona estrutura inicial de projeto em Laravel no repositório [**personal-finance-api**](https://github.com/ryanmelopd/personal-finance-api) |
 | | **Quarta-feira** | Realização da atividade de Análise e Projeto de Algoritmo<br>Realização da atividade de POO no repositório [**java-atividades-poo**](https://github.com/ryanmelopd/java-atividades-poo)<br>Realização da atividade de Elementos de Cálculo e Álgebra Linear<br>Estudos sobre Laravel |
 | | **Quinta-feira** | Desenvolvimento de API de Finanças Pessoais no repositório [**personal-finance-api**](https://github.com/ryanmelopd/personal-finance-api)<br>Estudos em JavaScript com manipulação usando DOM |
-| | **Sexta-feira** | |
+| | **Sexta-feira** | Revisão sobre enumerações e composição no repositório [**java-backend-studies**](https://github.com/ryanmelopd/java-backend-studies) <br>Revisão sobre Interfaces (inversão de controle e injeção de dependência)<br>Grupo de IA |
