@@ -85,6 +85,6 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Sexta-feira** | Revisão sobre enumerações e composição no repositório [**java-backend-studies**](https://github.com/ryanmelopd/java-backend-studies) <br>Revisão sobre Interfaces (inversão de controle e injeção de dependência)<br>Grupo de IA |
 | **2 a 6 de novembro** | **Segunda-feira** | Feriado de Finados |
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Realização da atividade de POO no repositório [**java-atividades-poo**](https://github.com/ryanmelopd/java-atividades-poo)<br>Reunião |
-| | **Quarta-feira** |  |
+| | **Quarta-feira** | Estudos em Interfaces, Generics, Set e Map no repositório [**java-backend-studies**](https://github.com/ryanmelopd/java-backend-studies) <br>Estudos em Spring Data JPA<br>Desenvolvimento de um e-commerce usando Spring Boot no repositório [**aurora-shop-api**](https://github.com/ryanmelopd/aurora-shop-api) |
 | | **Quinta-feira** | |
 | | **Sexta-feira** | |
