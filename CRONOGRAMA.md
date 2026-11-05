@@ -86,5 +86,5 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | **2 a 6 de novembro** | **Segunda-feira** | Feriado de Finados |
 | | **Terça-feira** | Monitoria<br>Elaboração do relatório da monitoria<br>Realização da atividade de POO no repositório [**java-atividades-poo**](https://github.com/ryanmelopd/java-atividades-poo)<br>Reunião |
 | | **Quarta-feira** | Estudos em Interfaces, Generics, Set e Map no repositório [**java-backend-studies**](https://github.com/ryanmelopd/java-backend-studies) <br>Estudos em Spring Data JPA<br>Desenvolvimento de um e-commerce usando Spring Boot no repositório [**aurora-shop-api**](https://github.com/ryanmelopd/aurora-shop-api) |
-| | **Quinta-feira** | |
+| | **Quinta-feira** | Realização da atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Implementação de CRUD da entidade Conta no repositório [**personal-finance-api**](https://github.com/ryanmelopd/personal-finance-api)<br>Implementação de entidades, endpoints e seus relacionamentos no repositório [**aurora-shop-api**](https://github.com/ryanmelopd/aurora-shop-api) |
 | | **Sexta-feira** | |
