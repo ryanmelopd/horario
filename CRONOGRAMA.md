@@ -88,3 +88,8 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Quarta-feira** | Estudos em Interfaces, Generics, Set e Map no repositório [**java-backend-studies**](https://github.com/ryanmelopd/java-backend-studies) <br>Estudos em Spring Data JPA<br>Desenvolvimento de um e-commerce usando Spring Boot no repositório [**aurora-shop-api**](https://github.com/ryanmelopd/aurora-shop-api) |
 | | **Quinta-feira** | Realização da atividade de desenvolvimento web no repositório [**desenvolvimento-web-atividades**](https://github.com/ryanmelopd/desenvolvimento-web-atividades)<br>Implementação de CRUD da entidade Conta no repositório [**personal-finance-api**](https://github.com/ryanmelopd/personal-finance-api)<br>Implementação de entidades, endpoints e seus relacionamentos no repositório [**aurora-shop-api**](https://github.com/ryanmelopd/aurora-shop-api) |
 | | **Sexta-feira** | Estudos em Python usando NumPy no repositório [**python-data-ml**](https://github.com/ryanmelopd/python-data-ml)<br>Estudos em Machine Learning |
+| **9 a 13 de novembro** | **Segunda-feira** | Formatura do Londrinense Tech |
+| | **Terça-feira** | Formatura do Pensamento Computacional |
+| | **Quarta-feira** | Participação no Londrisoft camp |
+| | **Quinta-feira** | |
+| | **Sexta-feira** | |
