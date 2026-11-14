@@ -91,5 +91,5 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | **9 a 13 de novembro** | **Segunda-feira** | Formatura do Londrinense Tech |
 | | **Terça-feira** | Formatura do Pensamento Computacional |
 | | **Quarta-feira** | Participação no Londrisoft camp |
-| | **Quinta-feira** | |
-| | **Sexta-feira** | |
+| | **Quinta-feira** | Estudos em DOM e eventos em JavaScript |
+| | **Sexta-feira** | Falta |
