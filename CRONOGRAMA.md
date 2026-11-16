@@ -77,7 +77,7 @@
 | | **Quarta-feira** | Participação no Londrisoft camp |
 | | **Quinta-feira** | Estudos em DOM e eventos em JavaScript |
 | | **Sexta-feira** | Falta |
-| **16 a 20 de novembro** | **Segunda-feira** | Realização das duas listas de atividade de Elementos de Cálculo e Álgebra Linear<br>Realização do algoritmo recursivo de Merge Sort para a aula de Análise e Projeto de Algoritmo |
+| **16 a 20 de novembro** | **Segunda-feira** | Realização da primeira lista de atividade de Elementos de Cálculo e Álgebra Linear<br>Realização do algoritmo recursivo de Merge Sort para a aula de Análise e Projeto de Algoritmo |
 | | **Terça-feira** | |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
