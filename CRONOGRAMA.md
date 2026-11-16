@@ -1,21 +1,5 @@
 # Cronograma de Estudos do NPI
 
-## Fontes de Estudo
-
-Os estudos realizados no NPI são complementados por cursos, videoaulas e ferramentas de apoio, organizados por área de conhecimento.
-
-<ul>
-  <li><a href="https://youtu.be/nODe5lFcGpg" target="_blank" rel="noopener noreferrer">Curso de Programação Java para Iniciantes | Fundamentos + POO</a> - YouTube</li>
-  <li><a href="https://www.udemy.com/course/java-curso-completo/" target="_blank" rel="noopener noreferrer">Java COMPLETO Programação Orientada a Objetos + Projetos</a> - Udemy</li>
-  <li><a href="https://youtu.be/jLropHUgI1A" target="_blank" rel="noopener noreferrer">Curso de Java Intermediário | Estrutura de Dados, Stream API, Generics, Packages e Records</a> - YouTube</li>
-  <li><a href="https://youtu.be/XQkf-6Yl3WM" target="_blank" rel="noopener noreferrer">Curso de SQL e MySQL Fundamental | Aprenda SQL em 1 Hora</a> - YouTube</li>
-  <li><a href="https://youtu.be/YY_hf0FOIcU" target="_blank" rel="noopener noreferrer">Curso de Spring para Iniciantes | Tutorial Completo de Java Spring</a> - YouTube</li>
-  <li><a href="https://youtu.be/YuzWGKSzEcE" target="_blank" rel="noopener noreferrer">Curso Spring Boot: Criando sua API REST do Zero - Parte 1</a> - YouTube</li>
-  <li><a href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb" target="_blank" rel="noopener noreferrer">Curso Laravel</a> - YouTube</li>
-</ul>
-
-## Cronograma
-
 | Semana | Dia | Atividades |
 |---|---|---|
 | **3 a 7 de agosto** | **Segunda-feira** | Monitoria<br>Elaboração do relatório de monitoria |
@@ -93,3 +77,18 @@ Os estudos realizados no NPI são complementados por cursos, videoaulas e ferram
 | | **Quarta-feira** | Participação no Londrisoft camp |
 | | **Quinta-feira** | Estudos em DOM e eventos em JavaScript |
 | | **Sexta-feira** | Falta |
+| **16 a 20 de novembro** | **Segunda-feira** | Realização das duas listas de atividade de Elementos de Cálculo e Álgebra Linear<br>Realização do algoritmo recursivo de Merge Sort para a aula de Análise e Projeto de Algoritmo |
+| | **Terça-feira** | |
+| | **Quarta-feira** | |
+| | **Quinta-feira** | |
+| | **Sexta-feira** | |
+| **23 a 27 de novembro** | **Segunda-feira** | |
+| | **Terça-feira** | |
+| | **Quarta-feira** | |
+| | **Quinta-feira** | |
+| | **Sexta-feira** | |
+| **30 de novembro a 4 de dezembro** | **Segunda-feira** | |
+| | **Terça-feira** | |
+| | **Quarta-feira** | |
+| | **Quinta-feira** | |
+| | **Sexta-feira** | |
