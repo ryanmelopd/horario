@@ -81,7 +81,7 @@
 | | **Terça-feira** | |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
-| | **Sexta-feira** | |
+| | **Sexta-feira** | Feriado da Consciência Negra |
 | **23 a 27 de novembro** | **Segunda-feira** | |
 | | **Terça-feira** | |
 | | **Quarta-feira** | |
