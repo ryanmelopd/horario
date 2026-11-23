@@ -80,9 +80,9 @@
 | **16 a 20 de novembro** | **Segunda-feira** | Realização da primeira lista de atividade de Elementos de Cálculo e Álgebra Linear<br>Realização do algoritmo recursivo de Merge Sort para a aula de Análise e Projeto de Algoritmo |
 | | **Terça-feira** | Realização da segunda lista de atividade de Elementos de Cálculo e Álgebra Linear<br>Estudos e prática com SQL no repositório [**sql-atividades**](https://github.com/ryanmelopd/sql-atividades) |
 | | **Quarta-feira** | Falta |
-| | **Quinta-feira** | |
+| | **Quinta-feira** | Falta |
 | | **Sexta-feira** | Feriado da Consciência Negra |
-| **23 a 27 de novembro** | **Segunda-feira** | |
+| **23 a 27 de novembro** | **Segunda-feira** | Estudos em recursividade: conceitos, casos-base, chamadas recursivas, rastreamento de execução, Fibonacci, fatorial e algoritmos de busca e ordenação |
 | | **Terça-feira** | |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
