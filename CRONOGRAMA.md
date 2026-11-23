@@ -82,7 +82,7 @@
 | | **Quarta-feira** | Falta |
 | | **Quinta-feira** | Falta |
 | | **Sexta-feira** | Feriado da Consciência Negra |
-| **23 a 27 de novembro** | **Segunda-feira** | Estudos em recursividade: conceitos, casos-base, chamadas recursivas, rastreamento de execução, Fibonacci, fatorial e algoritmos de busca e ordenação |
+| **23 a 27 de novembro** | **Segunda-feira** | Estudos em recursividade: conceitos, casos-base, chamadas recursivas, rastreamento de execução, Fibonacci, fatorial e algoritmos de busca e ordenação para a prova de Análise e Projeto de Algoritmo |
 | | **Terça-feira** | |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
