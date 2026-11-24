@@ -78,12 +78,12 @@
 | | **Quinta-feira** | Estudos em DOM e eventos em JavaScript |
 | | **Sexta-feira** | Falta |
 | **16 a 20 de novembro** | **Segunda-feira** | Realização da primeira lista de atividade de Elementos de Cálculo e Álgebra Linear<br>Realização do algoritmo recursivo de Merge Sort para a aula de Análise e Projeto de Algoritmo |
-| | **Terça-feira** | Realização da segunda lista de atividade de Elementos de Cálculo e Álgebra Linear<br>Estudos e prática com SQL no site [**SQLBolt**](https://sqlbolt.com/) |
+| | **Terça-feira** | Realização da segunda lista de atividade de Elementos de Cálculo e Álgebra Linear<br>Estudos e prática com SQL (consultas e filtros) no site [**SQLBolt**](https://sqlbolt.com/) |
 | | **Quarta-feira** | Falta |
 | | **Quinta-feira** | Falta |
 | | **Sexta-feira** | Feriado da Consciência Negra |
 | **23 a 27 de novembro** | **Segunda-feira** | Estudos em recursividade: conceitos, casos-base, chamadas recursivas, rastreamento de execução, Fibonacci, fatorial e algoritmos de busca e ordenação para a prova de Análise e Projeto de Algoritmo<br>Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack) |
-| | **Terça-feira** | Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack)<br>Estudos e prática em SQL no site [**SQLBolt**](https://sqlbolt.com/) |
+| | **Terça-feira** | Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack)<br>Estudos e prática em SQL (relacionamento e JOINs) no site [**SQLBolt**](https://sqlbolt.com/) |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
 | | **Sexta-feira** | |
