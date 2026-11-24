@@ -83,7 +83,7 @@
 | | **Quinta-feira** | Falta |
 | | **Sexta-feira** | Feriado da Consciência Negra |
 | **23 a 27 de novembro** | **Segunda-feira** | Estudos em recursividade: conceitos, casos-base, chamadas recursivas, rastreamento de execução, Fibonacci, fatorial e algoritmos de busca e ordenação para a prova de Análise e Projeto de Algoritmo<br>Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack) |
-| | **Terça-feira** | |
+| | **Terça-feira** | Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack)<br>Estudos e prática em SQL com foco em JOINs no site [**SQLBolt**](https://sqlbolt.com/) |
 | | **Quarta-feira** | |
 | | **Quinta-feira** | |
 | | **Sexta-feira** | |
