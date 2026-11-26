@@ -85,7 +85,7 @@
 | **23 a 27 de novembro** | **Segunda-feira** | Estudos em recursividade: conceitos, casos-base, chamadas recursivas, rastreamento de execução, Fibonacci, fatorial e algoritmos de busca e ordenação para a prova de Análise e Projeto de Algoritmo<br>Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack) |
 | | **Terça-feira** | Desenvolvimento do backend de uma biblioteca no repositório [**library-fullstack**](https://github.com/ryanmelopd/library-fullstack)<br>Estudos e prática em SQL (relacionamento e JOINs) no site [**SQLBolt**](https://sqlbolt.com/) |
 | | **Quarta-feira** | Realização do trabalho final de desenvolvimento web no repositório [**desenvolvimento-web-trabalho-final**](https://github.com/ryanmelopd/desenvolvimento-web-trabalho-final)<br>Estudos e prática em SQL (relacionamento, JOINs e agregações) no site [**SQLBolt**](https://sqlbolt.com/)  |
-| | **Quinta-feira** | |
+| | **Quinta-feira** | Estudos para a prova de Análise e Projetos Orientado a Objetos<br>Estudos e prática em SQL (agregações, ordem de query, inserção, atualização e deleção de tabelas ou colunas) no site [**SQLBolt**](https://sqlbolt.com/)<br>Estudos em JavaScript (DOM, Módulos, Promises, Events e Fetch API) no repositório [**estudos-js**](https://github.com/ryanmelopd/estudos-js) |
 | | **Sexta-feira** | |
 | **30 de novembro a 4 de dezembro** | **Segunda-feira** | |
 | | **Terça-feira** | |
